@@ -36,8 +36,10 @@ nav ul li{
     font-size:1.4rem;
 }
 .auther{
-    margin-left: 960px;
-    color:brown
+    /* margin-left: 960px; */
+    position:absolute;
+    right:0;
+    color:brown;
 }
 .container{
     min-height: 72vh;
@@ -108,11 +110,52 @@ nav ul li{
     opacity: 0;
     transition:opacity 1s ease-in
 }
-@media screen and(max-width:676px){
+@media screen and (max-width:600px){
     body{
-        background-color: black;
+        background-color: rgb(188, 250, 250);
+        max-height: 100vh;
+    }
+    .auther{
+        /* margin-left: 960px; */
+        position:absolute;
+        right:0;
+        color:brown;
+        font-size: 7px;
+    }
+    #myProgressBar{
+        width:47vh;
+        cursor: pointer;
     }
     
-}
+    .container{
+        min-height: 72vh;
+        background-color: black;
+        color:rgb(203, 212, 165);
+        font-family: cursive;
+        display: flex;
+        width:82%;
+        margin: 20px auto;
+        border-radius:18px;
+        padding:30px;
+        background-image: url('bg.jpg');
+        background-repeat: no-repeat;
+        background-size: 424px 1046px;
+        /* background-size: 1340px 600px; */
+    
+    }
+    .songInfo {
+        position:absolute;
+        left: 15vw;
+        top:5vw;
+        font-family: cursive;
+    }
+    .icons{
+        margin-top: 26px;
+    }
+    
 
+
+
+
+}
 
