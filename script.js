@@ -15,12 +15,12 @@ let songs = [
     {songName: "me rooyaan", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Raabta -arjit singh", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Galliyan", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Sanu Ek pal chain dj", filePath: "songs/6.mp3", coverPath: "covers/7.jpg"},
+    {songName: "Sanu Ek pal chain", filePath: "songs/6.mp3", coverPath: "covers/7.jpg"},
     {songName: "Samjhawan", filePath: "songs/7.mp3", coverPath: "covers/8.jpg"},
-    {songName: "Ek DIn Pyaar -MC stan", filePath: "songs/8.mp3", coverPath: "covers/9.jpg"},
-    {songName: "tuje kitna chane lage hum", filePath: "songs/9.mp3", coverPath: "covers/10.jpg"},
+    {songName: "Ek DIn Pyar-MCstan", filePath: "songs/8.mp3", coverPath: "covers/9.jpg"},
+    {songName: "tuje kitna chane lage", filePath: "songs/9.mp3", coverPath: "covers/10.jpg"},
     {songName: "Kahani Suno", filePath: "songs/10.mp3", coverPath: "covers/2.jpg"},
-    {songName: "your eyes x teri najoro ne ", filePath: "songs/11.mp3", coverPath: "covers/4.jpg"},
+    {songName: "your eyes x najorone", filePath: "songs/11.mp3", coverPath: "covers/4.jpg"},
     {songName: "Kyu diya dard hame", filePath: "songs/12.mp3", coverPath: "covers/3.jpg"},
 ]
 
